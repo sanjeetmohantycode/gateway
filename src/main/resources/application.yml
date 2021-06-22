@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    gateway:
+      enabled: true
+
+  application:
+    name: gateway server
